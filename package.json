@@ -65,7 +65,7 @@
     "grunt-eslint": "^24.0.0",
     "grunt-exec": "~3.0.0",
     "grunt-webpack": "^5.0.0",
-    "grunt-zip": "^0.18.2",
+    "grunt-zip": "^0.20.0",
     "html-webpack-plugin": "^5.5.0",
     "imports-loader": "^3.1.1",
     "mini-css-extract-plugin": "2.6.0",
